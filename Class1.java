@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author kendarrius kidd
  */
 
 public class Class1 {
@@ -9,4 +9,3 @@ public class Class1 {
         // v1.0
     }
     
-}
